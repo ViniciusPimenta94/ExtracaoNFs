@@ -1,0 +1,12 @@
+# Força o reconhecimento de arquivos Python como detectáveis
+*.py linguist-detectable=true
+
+# Ignora arquivos que distorcem a análise de linguagem
+*.html linguist-detectable=false
+*.tex linguist-detectable=false
+*.toc linguist-detectable=false
+*.exe linguist-detectable=false
+*.pkg linguist-detectable=false
+*.zip linguist-detectable=false
+*.log linguist-detectable=false
+*.json linguist-detectable=false
